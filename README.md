@@ -34,6 +34,9 @@ Thanks to the power of the community and the kindness of strangers, Jackie was s
 
 ![](static/photos/husky/050124-husky-toy-cable-look.jpeg)
 
+## New articles
+[070324 - Why is it so complicated to create APIs in the modern world - tech bureaucracy](articles/why-is-it-so-complicated-to-write-apis-now/why-is-it-so-complicated-to-write-apis-now-en.md)
+
 ## Old articles
 
 [051613 - Insomnia](articles/old/051613-insomnia-en.md)
