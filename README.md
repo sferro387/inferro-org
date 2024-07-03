@@ -37,6 +37,9 @@ Thanks to the power of the community and the kindness of strangers, Jackie was s
 ## New articles
 [070324 - Why is it so complicated to create APIs in the modern world - tech bureaucracy](articles/why-is-it-so-complicated-to-write-apis-now/why-is-it-so-complicated-to-write-apis-now-en.md)
 
+## Misc
+[Coffee](articles/coffee/coffee-en.md)
+[Кофе](articles/coffee/coffee-ru.md)
 ## Old articles
 
 [051613 - Insomnia](articles/old/051613-insomnia-en.md)
