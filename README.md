@@ -1,14 +1,10 @@
 <header>
-
-
 # Sergio's Wind & Wheels
+</header>
 
 _Step into the adventurous life of Sergio, where the winds of flying, the wheels of motorcycles, and the waves of sailing create unforgettable experiences. Accompanied by his husky, Sergio takes you on a journey like no other._
 
 ![](/static/logo/logo.png)
-
-</header>
-
 
 ## Flying machines
 
